@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\menu_sensor_menu.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\menu\\sensor_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\drawable-anydpi_ic_sensor.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-debug-32:\\drawable-anydpi\\ic_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\drawable-mdpi_ic_sensor.png.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-debug-32:\\drawable-mdpi\\ic_sensor.png"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-pngs-26:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\layout_sensor_list_item.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\layout\\sensor_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\drawable-xhdpi_ic_sensor.png.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-debug-32:\\drawable-xhdpi\\ic_sensor.png"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\drawable-hdpi_ic_sensor.png.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-debug-32:\\drawable-hdpi\\ic_sensor.png"
+    },
+    {
+        "merged": "com.example.sensorapp-merged_res-31:/layout_sensor_list_item.xml.flat",
+        "source": "com.example.sensorapp-main-33:/layout/sensor_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\menu_fragment_sensor_menu.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\menu\\fragment_sensor_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\drawable-xxhdpi_ic_sensor.png.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-debug-32:\\drawable-xxhdpi\\ic_sensor.png"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\layout_activity_location.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\layout_activity_sensor_details.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\layout\\activity_sensor_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\layout_sensor_item_list.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\layout\\sensor_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\layout_sensor_activity.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\layout\\sensor_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Arek\\.gradle\\daemon\\7.4\\com.example.sensorapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]
